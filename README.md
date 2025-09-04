@@ -1,0 +1,1 @@
+# DIPLOM_kinopoisk_2
